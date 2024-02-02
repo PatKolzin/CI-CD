@@ -41,6 +41,11 @@
 1. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
 2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
+[Bug Workflow](https://github.com/PatKolzin/CI-CD/blob/main/Bug.xml)
+
+[Other Workflow](https://github.com/PatKolzin/CI-CD/blob/main/Other.xml)
+
+
 ![Jira4](https://github.com/PatKolzin/CI-CD/assets/75835363/5a7baee8-a8bd-48ac-83c8-7f51cfe9e42b)
 ![Jira5](https://github.com/PatKolzin/CI-CD/assets/75835363/58f9c098-eaf5-48b0-9eaf-43ad8ca39ca6)
 
